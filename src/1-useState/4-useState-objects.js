@@ -9,6 +9,7 @@ const UseStateObject = () =>{
         message : 'random message',
     })
 
+    //How can we change the values in a object
 
     const changeMessage = () =>{
         setPerson({...person, message: 'hello world'})
