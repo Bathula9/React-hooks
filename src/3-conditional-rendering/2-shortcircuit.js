@@ -25,3 +25,9 @@ const ShortCircuit= ()=>{
 
 
 export default ShortCircuit
+
+             //Conditional rendering is the ability to render different user interfaces if a condition is true or false. 
+
+//In React, it allows us to render different elements or components based on a condition.
+
+//And also it works the same way conditions work in JavaScript. 
