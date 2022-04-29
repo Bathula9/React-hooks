@@ -22,7 +22,7 @@ const ControlledInputs = () =>{
             setPeople((people) =>{
                 return [...people, person]
             })
-            setFirstName('');
+            setFirstName(''); // so that we can directly enter a new name instead of erasing the previous one every time
             setEmail('');
         }
         else{
